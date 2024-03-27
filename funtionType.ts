@@ -9,3 +9,5 @@ let combineValue:Function;
 combineValue = add;
 combineValue = doPrint
 console.log(combineValue(6,6))
+
+console.log("Hello")
